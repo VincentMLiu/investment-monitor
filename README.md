@@ -1,2 +1,3 @@
 # investment-monitor
-periodic checking your investment situation
+Periodic checking your investment situation
+This project is aimming to watch return on different investment。
